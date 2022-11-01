@@ -1,0 +1,23 @@
+{
+   "302622570": {
+      "guess_author": {
+         "answers": 246,
+         "correct_answer": 157,
+         "correct_freq": 0.6382113821138211
+      }
+   },
+   "204268469": {
+      "guess_author": {
+         "answers": 49,
+         "correct_answer": 26,
+         "correct_freq": 0.5306122448979592
+      }
+   },
+   "254428194": {
+      "guess_author": {
+         "answers": 339,
+         "correct_answer": 191,
+         "correct_freq": 0.5634218289085545
+      }
+   }
+}
